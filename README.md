@@ -1,6 +1,12 @@
 # LangChain JS + Cloudflare Worker
 This project demonstrating how to host a [LangChain JS](https://js.langchain.com/v0.2/docs/introduction/) AI/LLM application using [Cloulflare Workers](https://workers.cloudflare.com/).
 
+# Technologies
+
+1. [LangChain JS](https://js.langchain.com/v0.2/docs/introduction/) a javascript framework for creating applications involving LLM technologies.
+2. [Cloulflare Workers](https://workers.cloudflare.com/) a serverless functions hosting offering from Cloudflare.
+3. [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) a serverless machine learning and GPUs offering from Cloudflare.
+
 # Setup Instructions
 
 Follow these steps to set up and run the project locally:
